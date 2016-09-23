@@ -1,5 +1,5 @@
 ---
-title: "STAT253 – Homework#<1>"
+title: "STAT253 â€“ Homework#<1>"
 author: "Ufuk GURBUZ  - <150113058>"
 date: "8 Mayis 2016"
 output: word_document
@@ -11,7 +11,7 @@ Does the price of an appliance convey something about its quality? Forty-eight d
 dishwashers were ranked on characteristics ranging from an overall satisfaction score,
 washing (x1), energy use (x2), noise (x3), ease of use (x4), and cycle time (in minutes). The Bosch
 (SHE55M1[2]UC) had the highest performance score of 82 while the GE (GLD4408R[WW]) had
-the lowest at 53. Ratings pictograms were converted to numerical values for x1, …, x4, where
+the lowest at 53. Ratings pictograms were converted to numerical values for x1, â€¦, x4, where
 5 = Excellent, 4 = Very good, 3 = Good, 2 = Fair, and 1 = Poor. Use a statistical computer
 package to explore the relationships between various pairs of variables in the table.
 
